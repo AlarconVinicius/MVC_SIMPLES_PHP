@@ -1,0 +1,17 @@
+{
+    "name": "vinicius_alarcon/php_mvc",
+    "authors": [
+        {
+            "name": "AlarconVinicius",
+            "email": "alarcon.pqd74@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "require": {
+        "twig/twig": "^3.4"
+    }
+}
